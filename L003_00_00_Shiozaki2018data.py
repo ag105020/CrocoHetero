@@ -51,7 +51,7 @@ def MuZ(a0,b0,c0):
         figure(2)
         plot(I,z,color='orange')
     
-    elif a0 == 12.708:
+    elif a0 == 17.708:
         figure(1)
         plot(Mu,z,color='r',dashes=(5,2))
     
@@ -70,7 +70,7 @@ a01 = 31.623  #From C:\Users\keiin\OneDrive\Desktop\figures\01\HeteroC00\HighRes
 b01 = 11.184
 c01 = 62.192
 
-a02 = 12.708  #From C:\Users\keiin\OneDrive\Desktop\figures\01\HeteroC00\HighRes103\BoxSum.xlsx run:617 04 23 03
+a02 = 17.708  #From C:\Users\keiin\OneDrive\Desktop\figures\01\HeteroC00\HighRes103\BoxSum.xlsx run:617 04 23 03
 b02 = 22.369
 c02 = 78.847
 
