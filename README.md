@@ -25,13 +25,13 @@ Fig. 7c,d
 * make sure to adjust the path.
 
 Fig. 8
-Run L001_01_02_Parameterization.py
+Run L001_01_03_Parameterization.py
 
 Fig. S3
 Run 617_04_20_09_ColorRevision.py with "Ef=0.1"
 
 Fig. S4
-Run L003_00_00_Shiozaki2018data.py
+Run L003_00_01_Shiozaki2018data.py
 
 Fig. S5
 Run L002_00_00_EN0.2_0.5_compare.py
