@@ -2,8 +2,8 @@
 Simulating Heterogenaity of Crocosphaera
 **************
 Preparation:
-Download all the files and put it in one folder.
-In each file, path must be adjusted to your own computer.
+Download all the files.
+In each file, path must be adjusted to your own folders.
 **************
 Fig. 6a,b
 Run 617_04_20_09_ColorRevision.py
@@ -25,7 +25,8 @@ Fig. 7c,d
 * make sure to adjust the path.
 
 Fig. 8
-Run L001_01_03_Parameterization.py
+Run L001_01_04_read_Matlab_file.py
+* make sure to adjust the path.
 
 Fig. S3
 Run 617_04_20_09_ColorRevision.py with "Ef=0.1"
