@@ -4,9 +4,9 @@ Please state “Cell Flux Model” and “Keisuke Inomura” in the acknowledgem
 publication includes the results based on the original/revised code. Or you may consider
 including Keisuke Inomura as a co-author depending on the contribution. In either case, the
 publication must cite the following papers:
-Masuda T, Inomura K, Takahata N, Shiozaki T, Sano Y, Deutsch C, Prášil O, Furuya K. 2020. Heterogeneous nitrogen fixation rates confer energetic advantage and expanded ecological niche of unicellular diazotroph populations. Communications Biology 3:172.
-Inomura K, Bragg J, Riemann L, Follows MJ. 2018. A quantitative model of nitrogen fixaion in the presence of ammonium. PLoS ONE 13:e0208282.
-Inomura K, Bragg J, Follows MJ. 2017. A quantitative analysis of the direct and indirect costs of nitrogen fixation: a model based on Azotobacter vinelandii. ISME Journal 11:166–175.
+1. Masuda T, Inomura K, Takahata N, Shiozaki T, Sano Y, Deutsch C, Prášil O, Furuya K. 2020. Heterogeneous nitrogen fixation rates confer energetic advantage and expanded ecological niche of unicellular diazotroph populations. Communications Biology 3:172.
+2. Inomura K, Bragg J, Riemann L, Follows MJ. 2018. A quantitative model of nitrogen fixaion in the presence of ammonium. PLoS ONE 13:e0208282.
+3. Inomura K, Bragg J, Follows MJ. 2017. A quantitative analysis of the direct and indirect costs of nitrogen fixation: a model based on Azotobacter vinelandii. ISME Journal 11:166–175.
 (Papers downloaded from https://www.inomura.com/papers)
 
 Keisuke Inomura (University of Rhode Island)
